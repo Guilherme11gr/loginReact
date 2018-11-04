@@ -4,9 +4,21 @@
   min-height: 436px;
   border-radius: 5px;
 }
+
+.hero-container-cadastro {
+  /* height: 27rem; */
+  width: 40rem;
+  min-height: 436px;
+  border-radius: 5px;
+  overflow: auto;
+}
 .img-center {
   position: relative;
   left: 36%;
+}
+.img-center-cadastro {
+  position: relative;
+  left: 42%;
 }
 .progress{
   position: fixed;
@@ -26,12 +38,12 @@
 
 @keyframes progress-animation{
 0% {
-  -webkit-transform: translateX(1rem);
-  transform: translateX(1rem);
+  
+  transform: translateX(10%);
 }
 100% {
-  -webkit-transform: translateX(15.5rem);
-  transform: translateX(15.5rem);
+  
+  transform: translateX(390%);
 }
 }
 
