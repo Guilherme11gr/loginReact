@@ -20,6 +20,18 @@
   position: relative;
   left: 42%;
 }
+
+@media screen and (max-width: 540px){
+  hr {
+    display: none;
+  }
+  .img-center-cadastro {
+    position: relative;
+    left: 42%;
+    display: none;
+  }
+
+}
 .progress{
   position: fixed;
   height: 3px;
