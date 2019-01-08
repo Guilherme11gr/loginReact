@@ -11,5 +11,4 @@
 
 <code>$ npm start</code>
 
-<h5>Seja feliz ! ( ou não )</h5>
 
