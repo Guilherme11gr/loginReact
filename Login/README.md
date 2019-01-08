@@ -13,5 +13,3 @@
 
 <h5>Seja feliz ! ( ou não )</h5>
 
-TODO:
-      Transformar Inputs em components.
